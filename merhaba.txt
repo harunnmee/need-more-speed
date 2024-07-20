@@ -1,3 +1,2 @@
 print("Merhaba Dünya!");
-print("ben Yozgatlıyım.");
-print("kodland kodland ödevlerimiz değil noksan");
+print("yozgat>kayseri!!!!");
